@@ -1,0 +1,141 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="CCTV1" group-title="央视",CCTV1
+https://t.freetv.fun/live/cctv-1.m3u8
+#EXTINF:-1 tvg-id="CCTV1" group-title="央视",CCTV1
+https://t.freetv.fun/live/cctv-1hd.m3u8
+#EXTINF:-1 tvg-id="CCTV1" group-title="央视",CCTV1
+https://t.freetv.fun/live/cctv1-3.m3u8
+
+#EXTINF:-1 tvg-id="CCTV2" group-title="央视",CCTV2
+https://t.freetv.fun/live/cctv2-7.m3u8
+#EXTINF:-1 tvg-id="CCTV2" group-title="央视",CCTV2
+https://t.freetv.fun/live/cctv-2hd.m3u8
+#EXTINF:-1 tvg-id="CCTV2" group-title="央视",CCTV2
+https://t.freetv.fun/live/cctv-2hd.m3u8
+
+#EXTINF:-1 tvg-id="CCTV3" group-title="央视",CCTV3
+http://link1.m3u8
+#EXTINF:-1 tvg-id="CCTV3" group-title="央视",CCTV3
+http://link2.m3u8
+#EXTINF:-1 tvg-id="CCTV3" group-title="央视",CCTV3
+http://link3.m3u8
+
+#EXTINF:-1 tvg-id="CCTV4" group-title="央视",CCTV4
+http://link1.m3u8
+#EXTINF:-1 tvg-id="CCTV4" group-title="央视",CCTV4
+http://link2.m3u8
+#EXTINF:-1 tvg-id="CCTV4" group-title="央视",CCTV4
+http://link3.m3u8
+
+#EXTINF:-1 tvg-id="CCTV5" group-title="央视",CCTV5
+http://link1.m3u8
+#EXTINF:-1 tvg-id="CCTV5" group-title="央视",CCTV5
+http://link2.m3u8
+#EXTINF:-1 tvg-id="CCTV5" group-title="央视",CCTV5
+http://link3.m3u8
+
+#EXTINF:-1 tvg-id="CCTV5+" group-title="央视",CCTV5+
+http://link1.m3u8
+#EXTINF:-1 tvg-id="CCTV5+" group-title="央视",CCTV5+
+http://link2.m3u8
+#EXTINF:-1 tvg-id="CCTV5+" group-title="央视",CCTV5+
+http://link3.m3u8
+
+#EXTINF:-1 tvg-id="CCTV6" group-title="央视",CCTV6
+http://link1.m3u8
+#EXTINF:-1 tvg-id="CCTV6" group-title="央视",CCTV6
+http://link2.m3u8
+#EXTINF:-1 tvg-id="CCTV6" group-title="央视",CCTV6
+http://link3.m3u8
+
+#EXTINF:-1 tvg-id="CCTV7" group-title="央视",CCTV7
+http://link1.m3u8
+#EXTINF:-1 tvg-id="CCTV7" group-title="央视",CCTV7
+http://link2.m3u8
+#EXTINF:-1 tvg-id="CCTV7" group-title="央视",CCTV7
+http://link3.m3u8
+
+#EXTINF:-1 tvg-id="CCTV8" group-title="央视",CCTV8
+http://link1.m3u8
+#EXTINF:-1 tvg-id="CCTV8" group-title="央视",CCTV8
+http://link2.m3u8
+#EXTINF:-1 tvg-id="CCTV8" group-title="央视",CCTV8
+http://link3.m3u8
+
+#EXTINF:-1 tvg-id="CCTV9" group-title="央视",CCTV9
+http://link1.m3u8
+#EXTINF:-1 tvg-id="CCTV9" group-title="央视",CCTV9
+http://link2.m3u8
+#EXTINF:-1 tvg-id="CCTV9" group-title="央视",CCTV9
+http://link3.m3u8
+
+#EXTINF:-1 tvg-id="CCTV10" group-title="央视",CCTV10
+http://link1.m3u8
+#EXTINF:-1 tvg-id="CCTV10" group-title="央视",CCTV10
+http://link2.m3u8
+#EXTINF:-1 tvg-id="CCTV10" group-title="央视",CCTV10
+http://link3.m3u8
+
+#EXTINF:-1 tvg-id="CCTV11" group-title="央视",CCTV11
+http://link1.m3u8
+#EXTINF:-1 tvg-id="CCTV11" group-title="央视",CCTV11
+http://link2.m3u8
+#EXTINF:-1 tvg-id="CCTV11" group-title="央视",CCTV11
+http://link3.m3u8
+
+#EXTINF:-1 tvg-id="CCTV12" group-title="央视",CCTV12
+http://link1.m3u8
+#EXTINF:-1 tvg-id="CCTV12" group-title="央视",CCTV12
+http://link2.m3u8
+#EXTINF:-1 tvg-id="CCTV12" group-title="央视",CCTV12
+http://link3.m3u8
+
+#EXTINF:-1 tvg-id="CCTV13" group-title="央视",CCTV13
+http://link1.m3u8
+#EXTINF:-1 tvg-id="CCTV13" group-title="央视",CCTV13
+http://link2.m3u8
+#EXTINF:-1 tvg-id="CCTV13" group-title="央视",CCTV13
+http://link3.m3u8
+
+#EXTINF:-1 tvg-id="CCTV14" group-title="央视",CCTV14
+http://link1.m3u8
+#EXTINF:-1 tvg-id="CCTV14" group-title="央视",CCTV14
+http://link2.m3u8
+#EXTINF:-1 tvg-id="CCTV14" group-title="央视",CCTV14
+http://link3.m3u8
+
+#EXTINF:-1 tvg-id="CCTV15" group-title="央视",CCTV15
+http://link1.m3u8
+#EXTINF:-1 tvg-id="CCTV15" group-title="央视",CCTV15
+http://link2.m3u8
+#EXTINF:-1 tvg-id="CCTV15" group-title="央视",CCTV15
+http://link3.m3u8
+
+#EXTINF:-1 tvg-id="CCTV16" group-title="央视",CCTV16
+http://link1.m3u8
+#EXTINF:-1 tvg-id="CCTV16" group-title="央视",CCTV16
+http://link2.m3u8
+#EXTINF:-1 tvg-id="CCTV16" group-title="央视",CCTV16
+http://link3.m3u8
+
+#EXTINF:-1 tvg-id="CCTV17" group-title="央视",CCTV17
+http://link1.m3u8
+#EXTINF:-1 tvg-id="CCTV17" group-title="央视",CCTV17
+http://link2.m3u8
+#EXTINF:-1 tvg-id="CCTV17" group-title="央视",CCTV17
+http://link3.m3u8
+
+#EXTINF:-1 tvg-id="CCTV4K" group-title="央视",CCTV4K
+http://link1.m3u8
+#EXTINF:-1 tvg-id="CCTV4K" group-title="央视",CCTV4K
+http://link2.m3u8
+#EXTINF:-1 tvg-id="CCTV4K" group-title="央视",CCTV4K
+http://link3.m3u8
+
+#EXTINF:-1 tvg-id="CCTV8K" group-title="央视",CCTV8K
+http://link1.m3u8
+#EXTINF:-1 tvg-id="CCTV8K" group-title="央视",CCTV8K
+http://link2.m3u8
+#EXTINF:-1 tvg-id="CCTV8K" group-title="央视",CCTV8K
+http://link3.m3u8
