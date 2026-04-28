@@ -1,57 +1,84 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://fanmingming.com" group-title="CCTV",CCTV1
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/CCTV/CCTV1.png" group-title="CCTV",CCTV1
 https://t.freetv.fun/live/cctv-1hd.m3u8
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://fanmingming.com" group-title="CCTV",CCTV2
+
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/CCTV/CCTV2.png" group-title="CCTV",CCTV2
 https://t.freetv.fun/live/cctv-2hd.m3u8
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://fanmingming.com" group-title="CCTV",CCTV3
+
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/CCTV/CCTV3.png" group-title="CCTV",CCTV3
 https://t.freetv.fun/live/cctv-3hd.m3u8
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://fanmingming.com" group-title="CCTV",CCTV4
+
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/CCTV/CCTV4.png" group-title="CCTV",CCTV4
 https://t.freetv.fun/live/cctv-4hd.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://fanmingming.com" group-title="CCTV",CCTV5
+
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/CCTV/CCTV5.png" group-title="CCTV",CCTV5
 https://t.freetv.fun/live/cctv-5hd.m3u8
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://fanmingming.com" group-title="CCTV",CCTV6
+
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/CCTV/CCTV6.png" group-title="CCTV",CCTV6
 https://t.freetv.fun/live/cctv-6hd.m3u8
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://fanmingming.com" group-title="CCTV",CCTV7
+
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/CCTV/CCTV7.png" group-title="CCTV",CCTV7
 https://t.freetv.fun/live/cctv-7hd.m3u8
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://fanmingming.com" group-title="CCTV",CCTV8
+
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/CCTV/CCTV8.png" group-title="CCTV",CCTV8
 https://t.freetv.fun/live/cctv-8hd.m3u8
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://fanmingming.com" group-title="CCTV",CCTV9
+
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/CCTV/CCTV9.png" group-title="CCTV",CCTV9
 https://t.freetv.fun/live/cctv-9hd.m3u8
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://fanmingming.com" group-title="CCTV",CCTV10
+
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/CCTV/CCTV10.png" group-title="CCTV",CCTV10
 https://t.freetv.fun/live/cctv-10hd.m3u8
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://fanmingming.com" group-title="CCTV",CCTV11
+
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/CCTV/CCTV11.png" group-title="CCTV",CCTV11
 https://t.freetv.fun/live/cctv-11hd.m3u8
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://fanmingming.com" group-title="CCTV",CCTV12
+
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/CCTV/CCTV12.png" group-title="CCTV",CCTV12
 https://t.freetv.fun/live/cctv-12hd.m3u8
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://fanmingming.com" group-title="CCTV",CCTV13
+
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/CCTV/CCTV13.png" group-title="CCTV",CCTV13
 https://t.freetv.fun/live/cctv-13hd.m3u8
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://fanmingming.com" group-title="CCTV",CCTV14
+
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/CCTV/CCTV14.png" group-title="CCTV",CCTV14
 https://t.freetv.fun/live/cctv-14hd.m3u8
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://fanmingming.com" group-title="CCTV",CCTV15
+
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/CCTV/CCTV15.png" group-title="CCTV",CCTV15
 https://t.freetv.fun/live/cctv-15hd.m3u8
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://fanmingming.com" group-title="CCTV",CCTV16
+
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/CCTV/CCTV16.png" group-title="CCTV",CCTV16
 https://t.freetv.fun/live/cctv-16hd-1.m3u8
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://fanmingming.com" group-title="CCTV",CCTV17
+
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/CCTV/CCTV17.png" group-title="CCTV",CCTV17
 https://t.freetv.fun/live/cctv-17hd.m3u8
-#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://fanmingming.com" group-title="CCTV",CCTV风云足球
+
+#EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/CCTV/CCTVfengyunzuqiu.png" group-title="CCTV",CCTV风云足球
 https://t.freetv.fun/live/cctv-feng-yun-zu-qiu.m3u8
-#EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="https://fanmingming.com" group-title="CCTV",CCTV风云音乐
+
+#EXTINF:-1 tvg-name="CCTV风云音乐" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/CCTV/CCTVfengyunyinle.png" group-title="CCTV",CCTV风云音乐
 https://t.freetv.fun/live/cctv-feng-yun-yin-le.m3u8
-#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://fanmingming.com" group-title="CCTV",CCTV风云剧场
+
+#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/CCTV/CCTVfengyunjuchang.png" group-title="CCTV",CCTV风云剧场
 https://t.freetv.fun/live/cctv-feng-yun-ju-chang.m3u8
-#EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="https://fanmingming.com" group-title="CCTV",CCTV高尔夫网球
+
+#EXTINF:-1 tvg-name="CCTV高尔夫网球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/CCTV/CCTVgaofuwangqiu.png" group-title="CCTV",CCTV高尔夫网球
 https://t.freetv.fun/live/cctv-gao-er-fu-wang-qiu.m3u8
-#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://fanmingming.com" group-title="CCTV",CCTV第一剧场
+
+#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/CCTV/CCTVdiyijuchang.png" group-title="CCTV",CCTV第一剧场
 https://t.freetv.fun/live/cctv-di-yi-ju-chang.m3u8
-#EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://fanmingming.com" group-title="CCTV",CCTV央视台球
+
+#EXTINF:-1 tvg-name="CCTV央视台球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/CCTV/CCTVyangshitaiqiu.png" group-title="CCTV",CCTV央视台球
 https://t.freetv.fun/live/cctv-yang-shi-tai-qiu.m3u8
-#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://fanmingming.com" group-title="CCTV",CCTV怀旧剧场
+
+#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/CCTV/CCTVhuaijiujuchang.png" group-title="CCTV",CCTV怀旧剧场
 https://t.freetv.fun/live/cctv-huai-jiu-ju-chang.m3u8
-#EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://fanmingming.com" group-title="CCTV",CCTV世界地理
+
+#EXTINF:-1 tvg-name="CCTV世界地理" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/CCTV/CCTVshijiedili.png" group-title="CCTV",CCTV世界地理
 https://t.freetv.fun/live/shi-jie-di-li-5.m3u8
-#EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://fanmingming.com" group-title="CCTV",CCTV兵器科技
+
+#EXTINF:-1 tvg-name="CCTV兵器科技" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/CCTV/CCTVbingqikeji.png" group-title="CCTV",CCTV兵器科技
 https://t.freetv.fun/live/cctv-bing-qi-ke-ji.m3u8
-#EXTINF:-1 tvg-name="CCTV卫生健康" tvg-logo="https://fanmingming.com" group-title="CCTV",CCTV卫生健康
+
+#EXTINF:-1 tvg-name="CCTV卫生健康" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/CCTV/CCTVweishengjiankang.png" group-title="CCTV",CCTV卫生健康
 https://t.freetv.fun/live/cctv-wei-sheng-jian-kang-1.m3u8
-#EXTINF:-1 tvg-name="CCTV女性时尚" tvg-logo="https://fanmingming.com" group-title="CCTV",CCTV女性时尚
+
+#EXTINF:-1 tvg-name="CCTV女性时尚" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/CCTV/CCTVnvxingshishang.png" group-title="CCTV",CCTV女性时尚
 https://t.freetv.fun/live/cctv-nu-xing-shi-shang-1.m3u8
