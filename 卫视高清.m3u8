@@ -67,5 +67,8 @@ https://t.freetv.fun/live/dong-nan-wei-shi-3.m3u8
 https://t.freetv.fun/live/sha-men-wei-shi-2.m3u8
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/兵团卫视.png" group-title="卫视",兵团卫视
 https://t.freetv.fun/live/bing-tuan-wei-shi-9.m3u8
-
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/三沙卫视.png" group-title="卫视",三沙卫视
+https://t.freetv.fun/live/san-sha-wei-shi.m3u8
+#EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/安多卫视.png" group-title="卫视",安多卫视
+https://t.freetv.fun/live/an-duo-wei-shi.m3u8
 
