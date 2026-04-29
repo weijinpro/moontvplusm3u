@@ -57,3 +57,9 @@ https://t.freetv.fun/live/cctv-bing-qi-ke-ji.m3u8
 https://t.freetv.fun/live/cctv-wei-sheng-jian-kang-1.m3u8
 #EXTINF:-1 tvg-name="CCTV女性时尚" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/女性时尚.png" group-title="CCTV",CCTV女性时尚
 https://t.freetv.fun/live/cctv-nu-xing-shi-shang-1.m3u8
+#EXTINF:-1  tvg-name="CCTV发现之旅" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/发现之旅.png" group-title="CCTV",CCTV发现之旅
+https://t.freetv.fun/live/zhong-yang-xin-ying-fa-xian-zhi-lu.m3u8
+#EXTINF:-1  tvg-name="CCTV老故事" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/老故事.png"  group-title="CCTV",老故事
+https://t.freetv.fun/live/zhong-yang-xin-ying-lao-gu-shi-1.m3u8
+#EXTINF:-1  tvg-name="CCTV央视文化精品" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/央视文化精品.png"  group-title="CCTV",央视文化精品
+https://t.freetv.fun/live/cctv-yang-shi-wen-hua-jing-pin.m3u8
